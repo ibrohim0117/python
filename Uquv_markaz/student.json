@@ -1,0 +1,43 @@
+[
+    {
+        "username": "ib",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "my_kurs": [
+            {
+                "id": 1,
+                "name": "Java",
+                "price": 1400000,
+                "davomiylik": 10
+            },
+            {
+                "id": 1,
+                "name": "Java",
+                "price": 1400000,
+                "davomiylik": 10
+            }
+        ]
+    },
+    {
+        "username": "student1",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "my_kurs": [
+            {
+                "id": 2,
+                "name": "Java1",
+                "price": 150,
+                "davomiylik": 8
+            },
+            {
+                "id": 3,
+                "name": "Pytohn1",
+                "price": 1,
+                "davomiylik": 1
+            }
+        ]
+    },
+    {
+        "username": "f",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "my_kurs": []
+    }
+]

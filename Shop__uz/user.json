@@ -1,0 +1,48 @@
+[
+    {
+        "username": "ib",
+        "password": "ib",
+        "myproduct": [
+            {
+                "id": 2,
+                "name": "Laptop ACER",
+                "price": 5000000,
+                "amount": 1,
+                "vaqti": "03/03/2023 16:06:06"
+            },
+            {
+                "id": 7,
+                "name": "Nokia",
+                "price": 500000,
+                "amount": 1,
+                "vaqti": "04/03/2023 09:32:43"
+            }
+        ]
+    },
+    {
+        "username": "t",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "myproduct": [
+            {
+                "id": 2,
+                "name": "Laptop ACER",
+                "price": 5000000,
+                "amount": 5,
+                "vaqti": "06/03/2023 14:21:33"
+            }
+        ]
+    },
+    {
+        "username": "a",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "myproduct": [
+            {
+                "id": 9,
+                "name": "olma",
+                "price": 14000,
+                "amount": 45,
+                "vaqti": "16/03/2023 21:16:51"
+            }
+        ]
+    }
+]

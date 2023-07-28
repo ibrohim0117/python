@@ -1,0 +1,75 @@
+[
+    {
+        "username": "ib",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "by_food": [
+            {
+                "id": 1,
+                "name": "Osh",
+                "price": 25000,
+                "Soni": 1,
+                "vaqti": "04/03/2023 11:06:07"
+            }
+        ],
+        "by_water": [
+            {
+                "id": 1,
+                "name": "Coca-Cola",
+                "price": 12000,
+                "Soni": 2,
+                "vaqti": "04/03/2023 11:06:14"
+            }
+        ]
+    },
+    {
+        "username": "f",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "by_food": [
+            {
+                "id": 1,
+                "name": "Osh",
+                "price": 25000,
+                "Soni": 2,
+                "vaqti": "04/03/2023 12:50:44"
+            },
+            {
+                "id": 2,
+                "name": "Lag'mon",
+                "price": 20000,
+                "Soni": 2,
+                "vaqti": "04/03/2023 12:50:50"
+            }
+        ],
+        "by_water": [
+            {
+                "id": 4,
+                "name": "Borjomi",
+                "price": 4000,
+                "Soni": 4,
+                "vaqti": "04/03/2023 12:50:59"
+            }
+        ]
+    },
+    {
+        "username": "r",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "by_food": [
+            {
+                "id": 3,
+                "name": "Shurva",
+                "price": 20000,
+                "Soni": 5,
+                "vaqti": "06/03/2023 14:18:29"
+            }
+        ],
+        "by_water": [
+            {
+                "id": 2,
+                "name": "Fanta",
+                "price": 10000,
+                "Soni": 3,
+                "vaqti": "06/03/2023 14:18:34"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Osh",
+        "price": 25000,
+        "amout": 198
+    },
+    {
+        "id": 2,
+        "name": "Lag'mon",
+        "price": 20000,
+        "amout": 93
+    },
+    {
+        "id": 3,
+        "name": "Shurva",
+        "price": 20000,
+        "amout": 91
+    },
+    {
+        "id": 4,
+        "name": "Shovla",
+        "price": 40000,
+        "amout": 40
+    },
+    {
+        "id": 5,
+        "name": "Napalyon",
+        "price": 50000,
+        "amout": 25
+    },
+    {
+        "id": 6,
+        "name": "n",
+        "price": 2,
+        "amout": 5
+    },
+    {
+        "id": 7,
+        "name": "OVqat 4",
+        "price": 15,
+        "amout": 150
+    }
+]

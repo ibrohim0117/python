@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Coca-Cola",
+        "price": 12000,
+        "amout": 90
+    },
+    {
+        "id": 2,
+        "name": "Fanta",
+        "price": 10000,
+        "amout": 35
+    },
+    {
+        "id": 3,
+        "name": "PEPSE",
+        "price": 12000,
+        "amout": 197
+    },
+    {
+        "id": 4,
+        "name": "Borjomi",
+        "price": 4000,
+        "amout": 245
+    }
+]
